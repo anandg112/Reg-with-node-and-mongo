@@ -1,11 +1,11 @@
 ## User Registration validation with NodeJS and MongoDB
 
-### Change into project directory and run the command below to install the required packages
+### Change into project directory and run the command below to install required node modules
 ```
 npm install
 ```
 
-### Run the command below to start the web server and the app
+### Run the command below to start web server and the app
 ```
 node server.js
 ```
