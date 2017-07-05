@@ -10,5 +10,4 @@ npm install
 node server.js
 ```
 
-### Use MongoDB Compass (GUI for DB) to check if the user has been successfully registered and data persists on DB
-### Connect to localhost on port 27017.
+### Use MongoDB Compass (GUI for DB) to check if the user has been successfully registered and data persists on DB. Connect to localhost on port 27017.
