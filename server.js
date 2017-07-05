@@ -30,7 +30,7 @@ app.post("/", (req, res) => {
     }, (err) => {
       res.status(400).send(err);
     });
-
+    // console.log(user);
   } else {
     res.send("Your password and/or Username did not meet criteria!");
   };
