@@ -24,7 +24,7 @@ app.post("/", (req, res) => {
       username: req.body.username,
       password: req.body.password
     });
-
+    //saving to DB
     user.save().then((doc) => {
       res.status(200).send("User successfully registered!");
     }, (err) => {
